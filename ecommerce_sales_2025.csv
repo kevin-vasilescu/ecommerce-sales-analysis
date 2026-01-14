@@ -1,0 +1,11 @@
+date,product,category,quantity,base_price,discount_percent,final_price,region,payment_method,customer_id
+2025-04-13,Headphones,Accessories,3,149,20,357.6,Africa,Credit Card,C6734
+2025-05-02,Tablet,Electronics,3,399,0,1197.0,Africa,Bank Transfer,C9322
+2025-05-30,Smartwatch,Accessories,4,299,20,956.8,Europe,Bank Transfer,C6051
+2025-10-04,Laptop,Electronics,2,899,0,1798.0,Africa,Bank Transfer,C9666
+2025-02-28,Gaming Console,Gaming,4,449,0,1796.0,South America,Bank Transfer,C1189
+2025-09-07,Smartwatch,Accessories,1,299,0,299.0,Asia,PayPal,C7435
+2025-07-20,Smartphone,Electronics,1,699,5,663.95,Asia,Bank Transfer,C8951
+2025-07-07,Gaming Console,Gaming,1,449,0,449.0,Europe,Credit Card,C5452
+2025-05-07,Laptop,Electronics,1,899,5,854.05,South America,PayPal,C2487
+2025-09-06,Laptop,Electronics,1,899,0,899.0,North America,Debit Card,C5934
